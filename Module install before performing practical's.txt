@@ -1,0 +1,20 @@
+Run these commands one by one in CMD / PowerShell
+
+pip install numpy
+pip install matplotlib
+pip install scikit-fuzzy
+pip install networkx
+pip install packaging
+pip install fuzzywuzzy
+pip install python-Levenshtein
+pip install minisom
+pip install neurodynex
+
+
+
+or 
+FINAL “INSTALL EVERYTHING” COMMAND (ONE SHOT)
+
+If you want ZERO thinking, just run this once 👇
+
+pip install numpy matplotlib scikit-fuzzy minisom networkx neurodynex packaging fuzzywuzzy python-Levenshtein
